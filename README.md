@@ -29,7 +29,7 @@ Implement a smart contract SimpleStaking in Solidity 0.8.x that includes the fol
 - Cамо задание будет в README.md репозитория
 - Кандидату надо расшарить экран
 - Необходимо открыть **IDE Remix** (https://remix.ethereum.org/) и выполнить import GitHub репозитория (репозиторий вам скинут в zoom чат после того как вы пошарите экран)
-- Нужно будет выполнить задание (оно простое: **Solidity Staking Solana Smart Contract**)
+- Нужно будет выполнить задание (оно простое: **Solidity Simple Staking Smart Contract**)
 - Главный KPI по которому будет оцениваться работа - использование всех доступных знаний по работе Solidity. Компилируемый смарт-контракт.
 - Задание очень простое и одно из главных требований - самостоятельно принимать решение.
 - Проверяйте работу контракта через Ctrl + S и во вкладке Solidity Compiler
